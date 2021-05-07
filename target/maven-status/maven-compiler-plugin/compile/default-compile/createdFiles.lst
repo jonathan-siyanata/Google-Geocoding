@@ -1,0 +1,16 @@
+za/co/jaliatechologies/dto/Viewport.class
+za/co/jaliatechologies/dto/Result.class
+za/co/jaliatechologies/GeocodeGeometry.class
+za/co/jaliatechologies/dto/Bounds.class
+za/co/jaliatechologies/dto/Northeast.class
+za/co/jaliatechologies/GeocodingClient.class
+za/co/jaliatechologies/AddressComponent.class
+za/co/jaliatechologies/dto/AddressComponent.class
+za/co/jaliatechologies/dto/Southwest.class
+za/co/jaliatechologies/dto/Location.class
+za/co/jaliatechologies/GeocodeController.class
+za/co/jaliatechologies/GeocodeLocation.class
+za/co/jaliatechologies/dto/Geometry.class
+za/co/jaliatechologies/dto/GeocodeDto.class
+za/co/jaliatechologies/GeocodeObject.class
+za/co/jaliatechologies/GoogleApiGeocodingApplication.class

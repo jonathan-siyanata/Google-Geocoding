@@ -1,0 +1,16 @@
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/dto/GeocodeDto.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/GoogleApiGeocodingApplication.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/dto/Bounds.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/dto/Southwest.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/GeocodingClient.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/GeocodeObject.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/GeocodeGeometry.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/dto/Viewport.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/dto/AddressComponent.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/dto/Northeast.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/dto/Location.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/dto/Geometry.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/GeocodeController.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/dto/Result.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/GeocodeLocation.java
+/home/jonathan/Documents/Internship_Projects/Build_Spring_Boot_App_Google_Api_Geocoding/googleApi-geocoding/src/main/java/za/co/jaliatechologies/AddressComponent.java
